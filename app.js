@@ -29,6 +29,12 @@ app.get('/whiteboard', (req, res) => {
   res.send(whiteboard)
 })
 
+//get entire database
+app.get('/data', (req, res) => {
+  res.send(data)
+})
+
+
 app.get('/whiteboard/:id', (req, res) => {
   const idx = req.params.id - 1
   const note = whiteboard[idx]
@@ -76,7 +82,6 @@ app.post('/whiteboard', (req, res) => {
   whiteboard.push(note)
   res.status(201).send(note)
 })
-
 
 
 module.exports = app;
