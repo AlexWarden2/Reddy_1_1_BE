@@ -193,93 +193,87 @@
     { 
         "id": 28,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "Which one of these statments is a lie?",
+        "correct": "Napoleon's family is of French origin",
+        "incorrect": ["In 1815 Napoleon was banished to an island for the rest of his life", "In 1804 Napoleon became Emperor of France"]
     },
     { 
         "id": 29,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "Which one of these statments is a lie?",
+        "correct": "The first vaccine was created in 1885",
+        "incorrect": ["Louis Pasteur's experiments proved germ theory", "The first anesthetic was used in 1846"]
     },
     { 
         "id": 30,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "Which one of these statments is a lie?",
+        "correct": "The first voyage was made from the United Kingdom",
+        "incorrect": ["The first voyage accross the atlantic was in 1492", "The first voyage was made by Columbus"]
     },
     { 
         "id": 31,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "Which one of these statments is a lie?",
+        "correct": "The Death Death Plague is different to the Bubonic Plague",
+        "incorrect": ["The Black Death Plague first hit Europe in 1347", "The Black Death Plague killed 1/3 of the population of Europe"]
     },
     { 
         "id": 32,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "Which one of these statments is a lie?",
+        "correct": "Buddhism originated in Southern India",
+        "incorrect": ["Buddha was born in 563 BCE", "India was the Birth placer of Buddhism"]
     },
     { 
         "id": 33,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "Which one of these statments is a lie?",
+        "correct": "The Great Pyramid was build for Pharaoh Tutankhamun",
+        "incorrect": ["The Ancient Egyptians Built the Great Pyramid of Giza", "The Great Pyramid is 4600 years old"]
     },
     { 
         "id": 34,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "Which one of these statments is a lie?",
+        "correct": "The first wheeled veichle was poswred by steam",
+        "incorrect": ["The Wheeled Veichle first appeared in Eastern Europe", "The first Wheeled veichle appeared in 3500 BCE"]
     },
     { 
         "id": 35,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "This is a Hangman round: A famous king of England",
+        "correct": "Henry VIII"
     },
     { 
         "id": 36,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "This is a Hangman round. The clue is: Looking up to the stars at night",
+        "correct": "Astronomy"
     },
     { 
         "id": 37,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "This is a Hangman round. The clue is: This activity takes place near the coast",
+        "correct": "Sailing"
     },
     { 
         "id": 38,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "This is a Hangman round. The clue is: Queen of the Ptolemaic Kingdom of Egypt",
+        "correct": "Cleopatra"
     },
     { 
         "id": 39,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "This is a Hangman round. The clue is: Where are the vikings from?",
+        "correct": "Scandinavia"
     },
     { 
         "id": 40,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "This is a Hangman round. The clue is: These were built in North Africa",
+        "correct": "Pyramid"
     }
 
 ]
