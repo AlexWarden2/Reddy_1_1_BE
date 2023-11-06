@@ -141,44 +141,145 @@
     },
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     { 
-        "id": 2,
-        "class": "geography",
-        "country": "",
-        "URL": "add image for flag",
-        "fact": "fact that is true in database",
-        "neighbours": "Geography true fact I guess"
-    }
-
+        "id": 21,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 22,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 23,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 24,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 25,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 26,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 27,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 28,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 29,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 30,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 31,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 32,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 33,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 34,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 35,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 36,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 37,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 38,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 39,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
+    { 
+        "id": 40,
+        "class": "history",
+        "question": "",
+        "correct": "",
+        "incorrect": ["", ""]
+    },
 
 ]
