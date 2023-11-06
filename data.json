@@ -144,51 +144,51 @@
     { 
         "id": 21,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "When did humans first land on the moon?",
+        "correct": "1969",
+        "incorrect": ["1972", "1965"]
     },
     { 
         "id": 22,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "When did the Soviet Union dissolve?",
+        "correct": "1991",
+        "incorrect": ["1989", "1995"]
     },
     { 
         "id": 23,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "When did the Apartheid in South Africa end?",
+        "correct": "1990",
+        "incorrect": ["1980", "2000"]
     },
     { 
         "id": 24,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "When was the United Nations formed?",
+        "correct": "1945",
+        "incorrect": ["1946", "1949"]
     },
     { 
         "id": 25,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "When was the start of the First World War?",
+        "correct": "1914",
+        "incorrect": ["1919", "1916"]
     },
     { 
         "id": 26,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "When were women first allowed to vote in the United Kingdom?",
+        "correct": "1928",
+        "incorrect": ["1918", "1932"]
     },
     { 
         "id": 27,
         "class": "history",
-        "question": "",
-        "correct": "",
-        "incorrect": ["", ""]
+        "question": "When was slavery abolished in the United States?",
+        "correct": "1865",
+        "incorrect": ["1875", "1833"]
     },
     { 
         "id": 28,
@@ -280,6 +280,6 @@
         "question": "",
         "correct": "",
         "incorrect": ["", ""]
-    },
+    }
 
 ]
