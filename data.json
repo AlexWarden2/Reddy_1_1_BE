@@ -2,44 +2,44 @@
     { 
         "id": 1,
         "class": "geography",
-        "question": "Which of these flags belongs to Argentina?",
-        "correct": "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
-        "incorrect": ["https://flagsoftheworld.co.uk/wp-content/uploads/2012/02/mexico.jpg", "https://cdn.britannica.com/74/4874-004-50846A53/Flag-Uruguay.jpg", "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg"]
+        "question": "Match the flags",
+        "correctName": ["Mexico", "Uraguay", "Brazil", "Argentina"],
+        "correctPhoto": ["https://flagsoftheworld.co.uk/wp-content/uploads/2012/02/mexico.jpg", "https://cdn.britannica.com/74/4874-004-50846A53/Flag-Uruguay.jpg", "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg", "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg"]
     },
     { 
         "id": 2,
         "class": "geography",
-        "question": "Which of these flags belongs to Egypt?",
-        "correct": "https://cdn.britannica.com/85/185-004-1EA59040/Flag-Egypt.jpg",
-        "incorrect": ["https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg", "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg", "https://cdn.britannica.com/48/5048-004-EA370A21/Flag-Cote-dIvoire.jpg"]
+        "question": "Match the flags",
+        "correctName": ["South-Africa", "Chad", "Ivory-Coast", "Egypt"],
+        "correctPhoto": ["https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg", "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg", "https://cdn.britannica.com/48/5048-004-EA370A21/Flag-Cote-dIvoire.jpg", "https://cdn.britannica.com/85/185-004-1EA59040/Flag-Egypt.jpg"]
     },
     { 
         "id": 3,
         "class": "geography",
-        "question": "Which of these flags belongs to Austria?",
-        "correct": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-10-scaled.jpg",
-        "incorrect": ["https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg", "https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg", "https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg"]
+        "question": "Match the flags",
+        "correctName": ["China", "Denmark", "Albania", "Austria"],
+        "correctPhoto": ["https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg", "https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg", "https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg", "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-10-scaled.jpg"]
     },
     { 
         "id": 4,
         "class": "geography",
-        "question": "Which of these flags belongs to Chile?",
-        "correct": "https://cdn.britannica.com/85/7485-004-00B07230/Flag-Chile.jpg",
-        "incorrect": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png", "https://www.mrflag.com/wp-content/uploads/2018/11/Barbados-1.png", "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg"]
+        "question": "Match the flags",
+        "correctName": ["Turkey", "Barbados", "Australia", "Chile"],
+        "correctPhoto": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png", "https://www.mrflag.com/wp-content/uploads/2018/11/Barbados-1.png", "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg", "https://cdn.britannica.com/85/7485-004-00B07230/Flag-Chile.jpg"]
     },
     { 
         "id": 5,
         "class": "geography",
-        "question": "Which of these flags belongs to Thailand?",
-        "correct": "https://cdn.britannica.com/38/4038-004-111388C2/Flag-Thailand.jpg",
-        "incorrect": ["https://cdn.britannica.com/76/5776-050-74220DEB/Flag-Qatar.jpg", "https://cdn.britannica.com/27/4027-004-B57F84E9/Flag-Cambodia.jpg", "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png"]
+        "question": "Match the flags",
+        "correctName": ["Qatar", "Cambodia", "South-Korea", "Thailand"],
+        "correctPhoto": ["https://cdn.britannica.com/76/5776-050-74220DEB/Flag-Qatar.jpg", "https://cdn.britannica.com/27/4027-004-B57F84E9/Flag-Cambodia.jpg", "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png","https://cdn.britannica.com/38/4038-004-111388C2/Flag-Thailand.jpg"]
     },
     { 
         "id": 6,
         "class": "geography",
-        "question": "Which of these flags belongs to Canada?",
-        "correct": "https://www.worldatlas.com/r/w1200/img/flag/ca-flag.jpg",
-        "incorrect": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Printable_Flag_of_Italy.svg/2560px-Printable_Flag_of_Italy.svg.png", "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png", "https://cdn.pixabay.com/photo/2012/04/11/15/19/france-28463_1280.png"]
+        "question": "Match the flags",
+        "correctName": ["Italy", "Germany", "France", "Canada"],
+        "correctPhoto": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Printable_Flag_of_Italy.svg/2560px-Printable_Flag_of_Italy.svg.png", "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png", "https://cdn.pixabay.com/photo/2012/04/11/15/19/france-28463_1280.png", "https://www.worldatlas.com/r/w1200/img/flag/ca-flag.jpg"]
     },
     { 
         "id": 7,

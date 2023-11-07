@@ -50,4 +50,29 @@ app.get('/data/:id', (req, res) => {
   }
 })
 
+app.post('/whiteboard', (req, res) => {
+  const lastNote = whiteboard[whiteboard.length - 1]
+  const lastID = lastNote ? lastNote.id + 1 : 1
+  const note = { id: lastID, text: " " };
+  const filePath = path.join(process.cwd(), 'whiteboard.json');
+
+  try {
+    const contents = fs.readFileSync(filePath, 'utf8');
+    let jsonString = JSON.parse(contents);
+    jsonString = jsonString.concat(note);
+    fs.writeFile('./whiteboard.json', JSON.stringify(jsonString), err => {
+      if (err) {
+        console.log('Error writing file', err)
+      } else {
+        console.log('Successfully wrote file')
+      }
+    })
+  } catch (err) {
+    console.error(err);
+  }
+  
+  whiteboard.push(note)
+  res.status(201).send(note)
+})
+
 module.exports = app;
