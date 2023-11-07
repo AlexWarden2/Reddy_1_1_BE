@@ -29,12 +29,6 @@ app.get('/whiteboard', (req, res) => {
   res.send(whiteboard)
 })
 
-//get entire database
-app.get('/data', (req, res) => {
-  res.send(data)
-})
-
-
 app.get('/whiteboard/:id', (req, res) => {
   const idx = req.params.id - 1
   const note = whiteboard[idx]
@@ -46,13 +40,29 @@ app.get('/whiteboard/:id', (req, res) => {
   }
 })
 
-
+app.get('/data/flag-match', (req, res) => {
+  res.send(data.slice(req.params.id = 0, req.params.id = 6));
+})
 
 app.get('/data/choosePhoto', (req, res) => {
   res.send(data.slice(req.params.id = 6, req.params.id = 14));
 })
 
+app.get('/data/neigbours', (req, res) => {
+  res.send(data.slice(req.params.id = 14, req.params.id = 20));
+})
 
+app.get('/data/dates', (req, res) => {
+  res.send(data.slice(req.params.id = 20, req.params.id = 27));
+})
+
+app.get('/data/two-truth-one-lie', (req, res) => {
+  res.send(data.slice(req.params.id = 27, req.params.id = 34));
+})
+
+app.get('/data/hangman', (req, res) => {
+  res.send(data.slice(req.params.id = 34, req.params.id = 40));
+})
 
 //get data by id
 app.get('/data/:id', (req, res) => {
