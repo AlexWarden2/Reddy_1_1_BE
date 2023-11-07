@@ -83,8 +83,4 @@ app.post('/whiteboard', (req, res) => {
   res.status(201).send(note)
 })
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 8627c1f2b1dc171fc3abfe09779b55652ac0e69d
 module.exports = app;
