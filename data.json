@@ -44,56 +44,56 @@
     { 
         "id": 7,
         "class": "geography",
-        "question": "Which country is this? https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg",
+        "question": "https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg",
         "correct": "Denmark",
         "incorrect": ["Norway", "Sweden", "Finland"]
     },
     { 
         "id": 8,
         "class": "geography",
-        "question": "Which country is this? https://flagsoftheworld.co.uk/wp-content/uploads/2012/02/mexico.jpg",
+        "question": "https://flagsoftheworld.co.uk/wp-content/uploads/2012/02/mexico.jpg",
         "correct": "Mexico",
         "incorrect": ["Colombia", "Venezuela", "Peru"]
     },
     { 
         "id": 9,
         "class": "geography",
-        "question": "Which country is this? https://cdn.britannica.com/48/5048-004-EA370A21/Flag-Cote-dIvoire.jpg",
+        "question": "https://cdn.britannica.com/48/5048-004-EA370A21/Flag-Cote-dIvoire.jpg",
         "correct": "Ivory Coast",
         "incorrect": ["Ireland", "India", "Congo"]
     },
     { 
         "id": 10,
         "class": "geography",
-        "question": "Which country is this? https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
+        "question": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
         "correct": "Australia",
         "incorrect": ["New-Zealand", "Fiji", "Singapore"]
     },
     { 
         "id": 11,
         "class": "geography",
-        "question": "Which country is this? https://cdn.britannica.com/76/5776-050-74220DEB/Flag-Qatar.jpg",
+        "question": "https://cdn.britannica.com/76/5776-050-74220DEB/Flag-Qatar.jpg",
         "correct": "Qatar",
         "incorrect": ["Oman", "UAE", "Kuwait"]
     },
     { 
         "id": 12,
         "class": "geography",
-        "question": "Which country is this? https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Printable_Flag_of_Italy.svg/2560px-Printable_Flag_of_Italy.svg.png",
+        "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Printable_Flag_of_Italy.svg/2560px-Printable_Flag_of_Italy.svg.png",
         "correct": "Italy",
         "incorrect": ["France", "Greece", "Belgium"]
     },
     { 
         "id": 13,
         "class": "geography",
-        "question": "Which country is this? https://www.mrflag.com/wp-content/uploads/2018/11/Barbados-1.png",
+        "question": "https://www.mrflag.com/wp-content/uploads/2018/11/Barbados-1.png",
         "correct": "Barbados",
         "incorrect": ["Haiti", "Cuba", "Jamaica"]
     },
     { 
         "id": 14,
         "class": "geography",
-        "question": "Which country is this? https://cdn.britannica.com/27/4027-004-B57F84E9/Flag-Cambodia.jpg",
+        "question": "https://cdn.britannica.com/27/4027-004-B57F84E9/Flag-Cambodia.jpg",
         "correct": "Cambodia",
         "incorrect": ["Thailand", "Vietnam", "Indonesia"]
     },
