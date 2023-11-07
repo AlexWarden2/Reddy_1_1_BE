@@ -41,33 +41,39 @@ app.get('/whiteboard/:id', (req, res) => {
   }
 })
 
+// app.get('/data/choosePhoto', (req, res) => {
+//   const randIdx = Math.floor((Math.random() * 8 + 6))
+//   res.send(data[randIdx]);
+//   // res.send(data.slice(req.params.id = 6, req.params.id = 14));
+// }
+
 app.get('/data/flag-match', (req, res) => {
   const randIdx = chance.integer({ min: 0, max: 6 -1 })
   res.send(data[randIdx]);
 })
 
 app.get('/data/choosePhoto', (req, res) => {
-  const randIdx = chance.integer({ min: 7, max: 14 -1 })
+  const randIdx = chance.integer({ min: 6, max: 14 -1 })
   res.send(data[randIdx]);
 })
 
 app.get('/data/neigbours', (req, res) => {
-  const randIdx = chance.integer({ min: 15, max: 20 -1 })
+  const randIdx = chance.integer({ min: 14, max: 20 -1 })
   res.send(data[randIdx]);
 })
 
 app.get('/data/dates', (req, res) => {
-  const randIdx = chance.integer({ min: 21, max: 27 -1 })
+  const randIdx = chance.integer({ min: 20, max: 27 -1 })
   res.send(data[randIdx]);
 })
 
 app.get('/data/two-truth-one-lie', (req, res) => {
-  const randIdx = chance.integer({ min: 28, max: 34 -1 })
+  const randIdx = chance.integer({ min: 27, max: 34 -1 })
   res.send(data[randIdx]);
 })
 
 app.get('/data/hangman', (req, res) => {
-  const randIdx = chance.integer({ min: 35, max: 40 -1 })
+  const randIdx = chance.integer({ min: 34, max: 40 -1 })
   res.send(data[randIdx]);
 })
 
