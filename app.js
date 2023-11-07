@@ -1,5 +1,7 @@
 const express = require('express')
 const cors = require('cors')
+const fs = require('fs')
+const path = require('path');
 
 const logger = require('./logger')
 const whiteboard = require('./whiteboard')
@@ -16,6 +18,12 @@ app.use(express.json())
 app.get('/', (req, res) => {
   res.status(200).json({ message: `Here is our server!` })
 })
+
+//get entire database
+app.get('/data', (req, res) => {
+  res.send(data)
+})
+
 
 app.get('/whiteboard', (req, res) => {
   res.send(whiteboard)
@@ -75,4 +83,8 @@ app.post('/whiteboard', (req, res) => {
   res.status(201).send(note)
 })
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8627c1f2b1dc171fc3abfe09779b55652ac0e69d
 module.exports = app;
