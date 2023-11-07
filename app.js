@@ -46,6 +46,14 @@ app.get('/whiteboard/:id', (req, res) => {
   }
 })
 
+
+
+app.get('/data/choosePhoto', (req, res) => {
+  res.send(data.slice(req.params.id = 6, req.params.id = 14));
+})
+
+
+
 //get data by id
 app.get('/data/:id', (req, res) => {
   const idx = req.params.id - 1
@@ -57,6 +65,7 @@ app.get('/data/:id', (req, res) => {
     res.status(200).send(note)
   }
 })
+
 
 app.post('/whiteboard', (req, res) => {
   const lastNote = whiteboard[whiteboard.length - 1]
