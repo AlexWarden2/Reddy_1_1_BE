@@ -83,5 +83,4 @@ app.post('/whiteboard', (req, res) => {
   res.status(201).send(note)
 })
 
-
 module.exports = app;
