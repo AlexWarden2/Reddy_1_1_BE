@@ -46,12 +46,11 @@ app.get('/whiteboard/:id', (req, res) => {
   }
 })
 
-
-
 app.get('/data/choosePhoto', (req, res) => {
-  res.send(data.slice(req.params.id = 6, req.params.id = 14));
+  const randIdx = Math.floor((Math.random() * 8 + 6))
+  res.send(data[randIdx]);
+  // res.send(data.slice(req.params.id = 6, req.params.id = 14));
 })
-
 
 
 //get data by id
