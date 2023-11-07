@@ -2,6 +2,7 @@ const express = require('express')
 const cors = require('cors')
 const fs = require('fs')
 const path = require('path');
+const chance = require('chance').Chance();
 
 const logger = require('./logger')
 const whiteboard = require('./whiteboard')
@@ -41,27 +42,33 @@ app.get('/whiteboard/:id', (req, res) => {
 })
 
 app.get('/data/flag-match', (req, res) => {
-  res.send(data.slice(req.params.id = 0, req.params.id = 6));
+  const randIdx = chance.integer({ min: 0, max: 6 -1 })
+  res.send(data[randIdx]);
 })
 
 app.get('/data/choosePhoto', (req, res) => {
-  res.send(data.slice(req.params.id = 6, req.params.id = 14));
+  const randIdx = chance.integer({ min: 7, max: 14 -1 })
+  res.send(data[randIdx]);
 })
 
 app.get('/data/neigbours', (req, res) => {
-  res.send(data.slice(req.params.id = 14, req.params.id = 20));
+  const randIdx = chance.integer({ min: 15, max: 20 -1 })
+  res.send(data[randIdx]);
 })
 
 app.get('/data/dates', (req, res) => {
-  res.send(data.slice(req.params.id = 20, req.params.id = 27));
+  const randIdx = chance.integer({ min: 21, max: 27 -1 })
+  res.send(data[randIdx]);
 })
 
 app.get('/data/two-truth-one-lie', (req, res) => {
-  res.send(data.slice(req.params.id = 27, req.params.id = 34));
+  const randIdx = chance.integer({ min: 28, max: 34 -1 })
+  res.send(data[randIdx]);
 })
 
 app.get('/data/hangman', (req, res) => {
-  res.send(data.slice(req.params.id = 34, req.params.id = 40));
+  const randIdx = chance.integer({ min: 35, max: 40 -1 })
+  res.send(data[randIdx]);
 })
 
 //get data by id
