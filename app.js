@@ -118,7 +118,7 @@ app.post('/whiteboard', (req, res) => {
 
 
 
-app.post("/scores", (req, res) => {
+app.post('/scores', (req, res) => {
   const newScore = req.body;
 
   scores.push(newScore)
