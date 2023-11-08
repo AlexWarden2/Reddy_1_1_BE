@@ -26,6 +26,9 @@ app.get('/data', (req, res) => {
   res.send(data)
 })
 
+app.get('/scores', (req, res) => {
+  res.send(scores)
+})
 
 app.get('/whiteboard', (req, res) => {
   res.send(whiteboard)
@@ -41,12 +44,6 @@ app.get('/whiteboard/:id', (req, res) => {
     res.status(200).send(note)
   }
 })
-
-
-app.get('/scores', (req, res) => {
-  res.send(scores)
-})
-
 
 app.get('/data/flag-match', (req, res) => {
   const randIdx = chance.integer({ min: 0, max: 6 -1 })
