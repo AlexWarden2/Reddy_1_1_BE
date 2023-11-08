@@ -7,7 +7,7 @@ const chance = require('chance').Chance();
 const logger = require('./logger')
 const whiteboard = require('./whiteboard')
 const data = require('./data')
-const scores = require('./scores');
+// const scores = require('./scores');
 
 const app = express() //create server
 
@@ -26,9 +26,9 @@ app.get('/data', (req, res) => {
   res.send(data)
 })
 
-app.get('/scores', (req, res) => {
-  res.send(scores)
-})
+// app.get('/scores', (req, res) => {
+//   res.send(scores)
+// })
 
 app.get('/whiteboard', (req, res) => {
   res.send(whiteboard)
