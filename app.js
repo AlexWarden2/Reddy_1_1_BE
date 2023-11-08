@@ -115,20 +115,12 @@ app.post('/whiteboard', (req, res) => {
 
 
 
-app.post('/scores', (req, res) => {
-  const newScore = req.body;
+// app.post('/scores', (req, res) => {
+//   const newScore = req.body;
 
-  scores.push(newScore)
-  res.send(newScore);
+//   scores.push(newScore)
+//   res.send(newScore);
   
-})
-
-
-
-// app.patch('/fruids:id', (req, res) => {
-
 // })
-
-
 
 module.exports = app;
