@@ -138,7 +138,7 @@
             {"text":"Portugal", "correct": true},
             {"text":"Italy", "correct": false},
             {"text":"Germany", "correct": false},
-            {"text":"PBelguimeru", "correct": false}]
+            {"text":"Belguim", "correct": false}]
     },
     { 
         "id": 18,
@@ -164,7 +164,7 @@
         "answers": [
             {"text":"Mexico", "correct": true},
             {"text":"Cuba", "correct": false},
-            {"text":"VeneGuatemalazuela", "correct": false},
+            {"text":"Guatemala", "correct": false},
             {"text":"Nicaragua", "correct": false}]
     },
 

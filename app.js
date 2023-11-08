@@ -115,4 +115,23 @@ app.post('/whiteboard', (req, res) => {
   res.status(201).send(note)
 })
 
+
+
+
+
+app.post('/score', (req, res) => {
+
+  // const 
+
+
+
+
+
+
+})
+
+
+
+
+
 module.exports = app;
