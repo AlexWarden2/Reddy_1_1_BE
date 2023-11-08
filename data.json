@@ -52,7 +52,7 @@
     },
     { 
         "id": 8,
-        "question": "https://flagsoftheworld.co.uk/wp-content/uploads/2012/02/mexico.jpg",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Mexico.jpg",
         "answers": [
             {"text":"Mexico", "correct": true},
             {"text":"Colombia", "correct": false},
@@ -61,7 +61,7 @@
     },
     { 
         "id": 9,
-        "question": "https://cdn.britannica.com/48/5048-004-EA370A21/Flag-Cote-dIvoire.jpg",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Coted'Ivoire.jpg",
         "answers": [
             {"text":"Ivory Coast", "correct": true},
             {"text":"Ireland", "correct": false},
@@ -70,7 +70,7 @@
     },
     { 
         "id": 10,
-        "question": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Australia.jpg",
         "answers": [
             {"text":"Australia", "correct": true},
             {"text":"New-Zealand", "correct": false},
@@ -79,7 +79,7 @@
     },
     { 
         "id": 11,
-        "question": "https://cdn.britannica.com/76/5776-050-74220DEB/Flag-Qatar.jpg",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Qatar.jpg",
         "answers": [
             {"text":"Qatar", "correct": true},
             {"text":"Oman", "correct": false},
@@ -88,7 +88,7 @@
     },
     { 
         "id": 12,
-        "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Printable_Flag_of_Italy.svg/2560px-Printable_Flag_of_Italy.svg.png",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Italy.jpg",
         "answers": [
             {"text":"Italy", "correct": true},
             {"text":"France", "correct": false},
@@ -97,7 +97,7 @@
     },
     { 
         "id": 13,
-        "question": "https://www.mrflag.com/wp-content/uploads/2018/11/Barbados-1.png",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Barbados.jpg",
         "answers": [
             {"text":"Barbados", "correct": true},
             {"text":"Haiti", "correct": false},
@@ -106,7 +106,7 @@
     },
     { 
         "id": 14,
-        "question": "https://cdn.britannica.com/27/4027-004-B57F84E9/Flag-Cambodia.jpg",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Cambodia.jpg",
         "answers": [
             {"text":"Cambodia", "correct": true},
             {"text":"Thailand", "correct": false},
