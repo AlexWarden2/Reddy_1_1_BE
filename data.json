@@ -43,201 +43,253 @@
     },
     { 
         "id": 7,
-        "class": "geography",
         "question": "https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg",
-        "correct": "Denmark",
-        "incorrect": ["Norway", "Sweden", "Finland"]
+        "answers": [
+        {"text":"Denmark", "correct": true},
+        {"text":"Norway", "correct": false},
+        {"text":"Finland", "correct": false},
+        {"text":"Sweden", "correct": false}]
     },
     { 
         "id": 8,
-        "class": "geography",
         "question": "https://flagsoftheworld.co.uk/wp-content/uploads/2012/02/mexico.jpg",
-        "correct": "Mexico",
-        "incorrect": ["Colombia", "Venezuela", "Peru"]
+        "answers": [
+            {"text":"Mexico", "correct": true},
+            {"text":"Colombia", "correct": false},
+            {"text":"Venezuela", "correct": false},
+            {"text":"Peru", "correct": false}]
     },
     { 
         "id": 9,
-        "class": "geography",
         "question": "https://cdn.britannica.com/48/5048-004-EA370A21/Flag-Cote-dIvoire.jpg",
-        "correct": "Ivory Coast",
-        "incorrect": ["Ireland", "India", "Congo"]
+        "answers": [
+            {"text":"Ivory Coast", "correct": true},
+            {"text":"Ireland", "correct": false},
+            {"text":"India", "correct": false},
+            {"text":"Congo", "correct": false}]
     },
     { 
         "id": 10,
-        "class": "geography",
         "question": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
-        "correct": "Australia",
-        "incorrect": ["New-Zealand", "Fiji", "Singapore"]
+        "answers": [
+            {"text":"Australia", "correct": true},
+            {"text":"New-Zealand", "correct": false},
+            {"text":"Fiji", "correct": false},
+            {"text":"Singapore", "correct": false}]
     },
     { 
         "id": 11,
-        "class": "geography",
         "question": "https://cdn.britannica.com/76/5776-050-74220DEB/Flag-Qatar.jpg",
-        "correct": "Qatar",
-        "incorrect": ["Oman", "UAE", "Kuwait"]
+        "answers": [
+            {"text":"Qatar", "correct": true},
+            {"text":"Oman", "correct": false},
+            {"text":"UAE", "correct": false},
+            {"text":"Kuwait", "correct": false}]
     },
     { 
         "id": 12,
-        "class": "geography",
         "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Printable_Flag_of_Italy.svg/2560px-Printable_Flag_of_Italy.svg.png",
-        "correct": "Italy",
-        "incorrect": ["France", "Greece", "Belgium"]
+        "answers": [
+            {"text":"Italy", "correct": true},
+            {"text":"France", "correct": false},
+            {"text":"Greece", "correct": false},
+            {"text":"Belgium", "correct": false}]
     },
     { 
         "id": 13,
-        "class": "geography",
         "question": "https://www.mrflag.com/wp-content/uploads/2018/11/Barbados-1.png",
-        "correct": "Barbados",
-        "incorrect": ["Haiti", "Cuba", "Jamaica"]
+        "answers": [
+            {"text":"Barbados", "correct": true},
+            {"text":"Haiti", "correct": false},
+            {"text":"Cuba", "correct": false},
+            {"text":"Jamaica", "correct": false}]
     },
     { 
         "id": 14,
-        "class": "geography",
         "question": "https://cdn.britannica.com/27/4027-004-B57F84E9/Flag-Cambodia.jpg",
-        "correct": "Cambodia",
-        "incorrect": ["Thailand", "Vietnam", "Indonesia"]
+        "answers": [
+            {"text":"Cambodia", "correct": true},
+            {"text":"Thailand", "correct": false},
+            {"text":"Vietnam", "correct": false},
+            {"text":"Indonesia", "correct": false}]
     },
     { 
         "id": 15,
-        "class": "geography",
         "question": "Which of these countries borders Vietnam?",
-        "correct": "Laos",
-        "incorrect": ["Burma", "Bangladesh", "Thailand"]
+        "answers": [
+            {"text":"Laos", "correct": true},
+            {"text":"Burma", "correct": false},
+            {"text":"Bangladesh", "correct": false},
+            {"text":"Thailand", "correct": false}]
     },
     { 
         "id": 16,
-        "class": "geography",
         "question": "Which of these countries borders Nigeria?",
-        "correct": "Cameroon",
-        "incorrect": ["Sudan", "Algeria", "Morocco"]
+        "answers": [
+            {"text":"Cameroon", "correct": true},
+            {"text":"Sudan", "correct": false},
+            {"text":"Algeria", "correct": false},
+            {"text":"Morocco", "correct": false}]
     },
     { 
         "id": 17,
-        "class": "geography",
         "question": "Which of these countries borders Spain?",
-        "correct": "Portugal",
-        "incorrect": ["Italy", "Germany", "Belguim"]
+        "answers": [
+            {"text":"Portugal", "correct": true},
+            {"text":"Italy", "correct": false},
+            {"text":"Germany", "correct": false},
+            {"text":"PBelguimeru", "correct": false}]
     },
     { 
         "id": 18,
-        "class": "geography",
         "question": "Which of these countries borders Uraguay?",
-        "correct": "Brazil",
-        "incorrect": ["Chile", "Bolivia", "Venezuela"]
+        "answers": [
+            {"text":"Brazil", "correct": true},
+            {"text":"Chile", "correct": false},
+            {"text":"Bolivia", "correct": false},
+            {"text":"Venezuela", "correct": false}]
     },
     { 
         "id": 19,
-        "class": "geography",
         "question": "Which of these countries borders Denmark?",
-        "correct": "Germany",
-        "incorrect": ["Norway", "Sweden", "Finland"]
+        "answers": [
+            {"text":"Germany", "correct": true},
+            {"text":"Norway", "correct": false},
+            {"text":"Sweden", "correct": false},
+            {"text":"Finland", "correct": false}]
     },
     { 
         "id": 20,
-        "class": "geography",
-        "question": "Which of these countries borders the USA? ",
-        "correct": "Mexico",
-        "incorrect": ["Cuba", "Guatemala", "Nicaragua"]
+        "question": "Which of these countries borders the USA?",
+        "answers": [
+            {"text":"Mexico", "correct": true},
+            {"text":"Cuba", "correct": false},
+            {"text":"VeneGuatemalazuela", "correct": false},
+            {"text":"Nicaragua", "correct": false}]
     },
- 
+
+
+
 
     { 
         "id": 21,
-        "class": "history",
         "question": "When did humans first land on the moon?",
-        "correct": "1969",
-        "incorrect": ["1972", "1965"]
+        "answers": [
+            {"text":"1969", "correct": true},
+            {"text":"1972", "correct": false},
+            {"text":"1965", "correct": false},
+            {"text":"1980", "correct": false}]
     },
     { 
         "id": 22,
-        "class": "history",
         "question": "When did the Soviet Union dissolve?",
-        "correct": "1991",
-        "incorrect": ["1989", "1995"]
+        "answers": [
+            {"text":"1991", "correct": true},
+            {"text":"1989", "correct": false},
+            {"text":"1995", "correct": false},
+            {"text":"1984", "correct": false}]
     },
+
     { 
         "id": 23,
-        "class": "history",
         "question": "When did the Apartheid in South Africa end?",
-        "correct": "1990",
-        "incorrect": ["1980", "2000"]
+        "answers": [
+            {"text":"1990", "correct": true},
+            {"text":"1980", "correct": false},
+            {"text":"2000", "correct": false},
+            {"text":"1985", "correct": false}]
     },
     { 
         "id": 24,
-        "class": "history",
         "question": "When was the United Nations formed?",
-        "correct": "1945",
-        "incorrect": ["1946", "1949"]
+        "answers": [
+            {"text":"1945", "correct": true},
+            {"text":"1946", "correct": false},
+            {"text":"1944", "correct": false},
+            {"text":"1949", "correct": false}]
     },
     { 
         "id": 25,
-        "class": "history",
         "question": "When was the start of the First World War?",
-        "correct": "1914",
-        "incorrect": ["1919", "1916"]
+        "answers": [
+            {"text":"1914", "correct": true},
+            {"text":"1919", "correct": false},
+            {"text":"1916", "correct": false},
+            {"text":"1913", "correct": false}]
     },
     { 
         "id": 26,
-        "class": "history",
         "question": "When were women first allowed to vote in the United Kingdom?",
-        "correct": "1928",
-        "incorrect": ["1918", "1932"]
+        "answers": [
+            {"text":"1928", "correct": true},
+            {"text":"1918", "correct": false},
+            {"text":"1932", "correct": false},
+            {"text":"1922", "correct": false}]
     },
     { 
         "id": 27,
-        "class": "history",
         "question": "When was slavery abolished in the United States?",
-        "correct": "1865",
-        "incorrect": ["1875", "1833"]
+        "answers": [
+            {"text":"1865", "correct": true},
+            {"text":"1875", "correct": false},
+            {"text":"1833", "correct": false},
+            {"text":"1852", "correct": false}]
     },
     { 
         "id": 28,
-        "class": "history",
         "question": "Which one of these statments is a lie?",
-        "correct": "Napoleon's family is of French origin",
-        "incorrect": ["In 1815 Napoleon was banished to an island for the rest of his life", "In 1804 Napoleon became Emperor of France"]
+        "answers": [
+            {"text":"Napoleon's family is of French origin", "correct": true},
+            {"text":"In 1815 Napoleon was banished to an island for the rest of his life", "correct": false},
+            {"text":"In 1804 Napoleon became Emperor of France", "correct": false}]
     },
     { 
         "id": 29,
-        "class": "history",
         "question": "Which one of these statments is a lie?",
-        "correct": "The first vaccine was created in 1885",
-        "incorrect": ["Louis Pasteur's experiments proved germ theory", "The first anesthetic was used in 1846"]
+        "answers": [
+            {"text":"The first vaccine was created in 1885", "correct": true},
+            {"text":"Louis Pasteur's experiments proved germ theory", "correct": false},
+            {"text":"The first anesthetic was used in 1846", "correct": false}]
     },
     { 
         "id": 30,
-        "class": "history",
         "question": "Which one of these statments is a lie?",
-        "correct": "The first voyage was made from the United Kingdom",
-        "incorrect": ["The first voyage accross the atlantic was in 1492", "The first voyage was made by Columbus"]
+        "answers": [
+            {"text":"The first voyage was made from the United Kingdom", "correct": true},
+            {"text":"The first voyage accross the atlantic was in 1492", "correct": false},
+            {"text":"The first voyage was made by Columbus", "correct": false}]
     },
     { 
         "id": 31,
-        "class": "history",
         "question": "Which one of these statments is a lie?",
-        "correct": "The Death Death Plague is different to the Bubonic Plague",
-        "incorrect": ["The Black Death Plague first hit Europe in 1347", "The Black Death Plague killed 1/3 of the population of Europe"]
+        "answers": [
+            {"text":"The Death Death Plague is different to the Bubonic Plague", "correct": true},
+            {"text":"The Black Death Plague first hit Europe in 1347", "correct": false},
+            {"text":"The Black Death Plague killed 1/3 of the population of Europe", "correct": false}]
     },
     { 
         "id": 32,
-        "class": "history",
         "question": "Which one of these statments is a lie?",
-        "correct": "Buddhism originated in Southern India",
-        "incorrect": ["Buddha was born in 563 BCE", "India was the Birth placer of Buddhism"]
+        "answers": [
+            {"text":"Buddhism originated in Southern India", "correct": true},
+            {"text":"Buddha was born in 563 BCE", "correct": false},
+            {"text":"India was the Birth placer of Buddhism", "correct": false}]
     },
     { 
         "id": 33,
-        "class": "history",
         "question": "Which one of these statments is a lie?",
-        "correct": "The Great Pyramid was build for Pharaoh Tutankhamun",
-        "incorrect": ["The Ancient Egyptians Built the Great Pyramid of Giza", "The Great Pyramid is 4600 years old"]
+        "answers": [
+            {"text":"The Great Pyramid was build for Pharaoh Tutankhamun", "correct": true},
+            {"text":"The Ancient Egyptians Built the Great Pyramid of Giza", "correct": false},
+            {"text":"The Great Pyramid is 4600 years old", "correct": false}]
     },
     { 
         "id": 34,
-        "class": "history",
         "question": "Which one of these statments is a lie?",
-        "correct": "The first wheeled veichle was poswred by steam",
-        "incorrect": ["The Wheeled Veichle first appeared in Eastern Europe", "The first Wheeled veichle appeared in 3500 BCE"]
+        "answers": [
+            {"text":"The first wheeled veichle was poswred by stea", "correct": true},
+            {"text":"The Wheeled Veichle first appeared in Eastern Europe", "correct": false},
+            {"text":"The first Wheeled veichle appeared in 3500 BCE", "correct": false}]
     },
     { 
         "id": 35,
