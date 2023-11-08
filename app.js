@@ -7,6 +7,7 @@ const chance = require('chance').Chance();
 const logger = require('./logger')
 const whiteboard = require('./whiteboard')
 const data = require('./data')
+const scores = require('./scores');
 
 const app = express() //create server
 
@@ -41,11 +42,11 @@ app.get('/whiteboard/:id', (req, res) => {
   }
 })
 
-// app.get('/data/choosePhoto', (req, res) => {
-//   const randIdx = Math.floor((Math.random() * 8 + 6))
-//   res.send(data[randIdx]);
-//   // res.send(data.slice(req.params.id = 6, req.params.id = 14));
-// }
+
+app.get('/scores', (req, res) => {
+  res.send(scores)
+})
+
 
 app.get('/data/flag-match', (req, res) => {
   const randIdx = chance.integer({ min: 0, max: 6 -1 })
@@ -117,20 +118,19 @@ app.post('/whiteboard', (req, res) => {
 
 
 
+app.post("/score", (req, res) => {
+  const newScore = req.body;
 
-
-app.post('/score', (req, res) => {
-
-  // const 
-
-
-
-
-
-
+  scores.push(newScore)
+  res.send(newScore);
+  
 })
 
 
+
+// app.patch('/fruids:id', (req, res) => {
+
+// })
 
 
 
