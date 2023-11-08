@@ -43,7 +43,7 @@
     },
     { 
         "id": 7,
-        "question": "https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg",
+        "question": "https://www.worldmapsonline.com/content/lightbox/Denmark.jpg",
         "answers": [
         {"text":"Denmark", "correct": true},
         {"text":"Norway", "correct": false},
