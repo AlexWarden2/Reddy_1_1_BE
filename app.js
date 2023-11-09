@@ -56,7 +56,7 @@ app.get('/data/choosePhoto', (req, res) => {
   res.send(data[randIdx]);
 })
 
-app.get('/data/neigbours', (req, res) => {
+app.get('/data/neighbours', (req, res) => {
   const randIdx = chance.integer({ min: 14, max: 20 -1 })
   res.send(data[randIdx]);
 })
