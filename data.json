@@ -287,7 +287,7 @@
         "id": 34,
         "question": "Which one of these statements is a lie?",
         "answers": [
-            {"text":"The first wheeled veichle was poswred by stea", "correct": true},
+            {"text":"The first wheeled veichle was powred by stea", "correct": true},
             {"text":"The Wheeled Veichle first appeared in Eastern Europe", "correct": false},
             {"text":"The first Wheeled veichle appeared in 3500 BCE", "correct": false}]
     },
