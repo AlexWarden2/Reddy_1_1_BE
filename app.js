@@ -7,7 +7,7 @@ const chance = require('chance').Chance();
 const logger = require('./logger')
 const whiteboard = require('./whiteboard')
 const data = require('./data')
-// const scores = require('./scores');
+const total = require('./total')
 
 const app = express() //create server
 
@@ -26,9 +26,10 @@ app.get('/data', (req, res) => {
   res.send(data)
 })
 
-// app.get('/scores', (req, res) => {
-//   res.send(scores)
-// })
+app.get('/total', (req, res) => {
+  res.send(total)
+})
+
 
 app.get('/whiteboard', (req, res) => {
   res.send(whiteboard)
@@ -115,12 +116,12 @@ app.post('/whiteboard', (req, res) => {
 
 
 
-// app.post('/scores', (req, res) => {
-//   const newScore = req.body;
+app.post('/total', (req, res) => {
+  const newScore = req.body;
 
-//   scores.push(newScore)
-//   res.send(newScore);
+  total.push(newScore)
+  res.send(newScore);
   
-// })
+})
 
 module.exports = app;
