@@ -3,7 +3,7 @@
         "id": 1,
         "class": "geography",
         "question": "Match the flags",
-        "correctName": ["Mexico", "Uraguay", "Brazil", "Argentina"],
+        "correctName": ["Mexico", "Uruguay", "Brazil", "Argentina"],
         "correctPhoto": ["https://flagsoftheworld.co.uk/wp-content/uploads/2012/02/mexico.jpg", "https://cdn.britannica.com/74/4874-004-50846A53/Flag-Uruguay.jpg", "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg", "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg"]
     },
     { 
