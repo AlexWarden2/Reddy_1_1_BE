@@ -43,7 +43,7 @@
     },
     { 
         "id": 7,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Denmark.jpg",
+        "question": "https://ibb.co/zZ4YK6y",
         "answers": [
         {"text":"Denmark", "correct": true},
         {"text":"Norway", "correct": false},
@@ -52,7 +52,7 @@
     },
     { 
         "id": 8,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Mexico.jpg",
+        "question": "https://ibb.co/JjMZrDp",
         "answers": [
             {"text":"Mexico", "correct": true},
             {"text":"Colombia", "correct": false},
@@ -61,7 +61,7 @@
     },
     { 
         "id": 9,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Coted'Ivoire.jpg",
+        "question": "https://ibb.co/0G3GqTV",
         "answers": [
             {"text":"Ivory Coast", "correct": true},
             {"text":"Ireland", "correct": false},
@@ -70,7 +70,7 @@
     },
     { 
         "id": 10,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Australia.jpg",
+        "question": "https://ibb.co/Lvd1M4S",
         "answers": [
             {"text":"Australia", "correct": true},
             {"text":"New-Zealand", "correct": false},
@@ -79,7 +79,7 @@
     },
     { 
         "id": 11,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Qatar.jpg",
+        "question": "https://ibb.co/4Rrxp3C",
         "answers": [
             {"text":"Qatar", "correct": true},
             {"text":"Oman", "correct": false},
@@ -88,7 +88,7 @@
     },
     { 
         "id": 12,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Italy.jpg",
+        "question": "https://ibb.co/QJqhvcp",
         "answers": [
             {"text":"Italy", "correct": true},
             {"text":"France", "correct": false},
@@ -97,7 +97,7 @@
     },
     { 
         "id": 13,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Barbados.jpg",
+        "question": "https://ibb.co/SxSxkZT",
         "answers": [
             {"text":"Barbados", "correct": true},
             {"text":"Haiti", "correct": false},
@@ -106,7 +106,7 @@
     },
     { 
         "id": 14,
-        "question": "https://www.worldmapsonline.com/content/lightbox/Cambodia.jpg",
+        "question": "https://ibb.co/xz0FJpT",
         "answers": [
             {"text":"Cambodia", "correct": true},
             {"text":"Thailand", "correct": false},
