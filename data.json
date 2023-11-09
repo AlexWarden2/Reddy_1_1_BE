@@ -43,7 +43,7 @@
     },
     { 
         "id": 7,
-        "question": "https://ibb.co/zZ4YK6y",
+        "question": "https://i.ibb.co/m4cwQNL/denmark.png",
         "answers": [
         {"text":"Denmark", "correct": true},
         {"text":"Norway", "correct": false},
@@ -52,7 +52,7 @@
     },
     { 
         "id": 8,
-        "question": "https://ibb.co/JjMZrDp",
+        "question": "https://i.ibb.co/Sw9SVFm/mexico.png",
         "answers": [
             {"text":"Mexico", "correct": true},
             {"text":"Colombia", "correct": false},
@@ -61,7 +61,7 @@
     },
     { 
         "id": 9,
-        "question": "https://ibb.co/0G3GqTV",
+        "question": "https://i.ibb.co/crdrJ0X/cote-DIvoire.png",
         "answers": [
             {"text":"Ivory Coast", "correct": true},
             {"text":"Ireland", "correct": false},
@@ -70,7 +70,7 @@
     },
     { 
         "id": 10,
-        "question": "https://ibb.co/Lvd1M4S",
+        "question": "https://i.ibb.co/1bGT3HZ/australia.png",
         "answers": [
             {"text":"Australia", "correct": true},
             {"text":"New-Zealand", "correct": false},
@@ -79,7 +79,7 @@
     },
     { 
         "id": 11,
-        "question": "https://ibb.co/4Rrxp3C",
+        "question": "https://i.ibb.co/yFjJq7K/qatar.png",
         "answers": [
             {"text":"Qatar", "correct": true},
             {"text":"Oman", "correct": false},
@@ -88,7 +88,7 @@
     },
     { 
         "id": 12,
-        "question": "https://ibb.co/QJqhvcp",
+        "question": "https://i.ibb.co/NFkf23t/italy.png",
         "answers": [
             {"text":"Italy", "correct": true},
             {"text":"France", "correct": false},
@@ -97,7 +97,7 @@
     },
     { 
         "id": 13,
-        "question": "https://ibb.co/SxSxkZT",
+        "question": "https://i.ibb.co/LPKPTsw/barbados.png",
         "answers": [
             {"text":"Barbados", "correct": true},
             {"text":"Haiti", "correct": false},
@@ -106,7 +106,7 @@
     },
     { 
         "id": 14,
-        "question": "https://ibb.co/xz0FJpT",
+        "question": "https://i.ibb.co/44G1P6r/cambodia.png",
         "answers": [
             {"text":"Cambodia", "correct": true},
             {"text":"Thailand", "correct": false},
