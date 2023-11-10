@@ -39,10 +39,10 @@ An educational website focused on learning geography and history. To increase th
 <img src="https://i.ibb.co/vhXngQn/i2.jpg" alt="i2" border="0">
 <img src="https://i.ibb.co/7ry7XWV/i3.jpg" alt="i3" border="0">
 <img src="https://i.ibb.co/LJFGMsL/i4.jpg" alt="i4" border="0">
-<img src="https://i.ibb.co/4mvKzKW/i5.jpg" alt="i5" border="0">
-<img src="https://i.ibb.co/YNMspjw/i6.jpg" alt="i6" border="0">
+<img src="https://i.ibb.co/1sVWw1g/i6.jpg" alt="i6" border="0">
 <img src="https://i.ibb.co/d7HDCyd/i7.jpg" alt="i7" border="0">
 <img src="https://i.ibb.co/2ck1sCY/i8.jpg" alt="i8" border="0">
+<img src="https://i.ibb.co/TrPYzYY/i9.jpg" alt="i9" border="0">
 
 # Wins & Challenges
 ## Wins
