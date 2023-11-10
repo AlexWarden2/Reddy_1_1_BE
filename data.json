@@ -273,7 +273,7 @@
         "answers": [
             {"text":"Buddhism originated in Southern India", "correct": true},
             {"text":"Buddha was born in 563 BCE", "correct": false},
-            {"text":"India was the Birth placer of Buddhism", "correct": false}]
+            {"text":"India was the Birth place of Buddhism", "correct": false}]
     },
     { 
         "id": 33,
