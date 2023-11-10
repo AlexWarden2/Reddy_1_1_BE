@@ -263,7 +263,7 @@
         "id": 31,
         "question": "Which one of these statements is a lie?",
         "answers": [
-            {"text":"The Death Death Plague is different to the Bubonic Plague", "correct": true},
+            {"text":"The Black Death Plague is different to the Bubonic Plague", "correct": true},
             {"text":"The Black Death Plague first hit Europe in 1347", "correct": false},
             {"text":"The Black Death Plague killed 1/3 of the population of Europe", "correct": false}]
     },
@@ -273,28 +273,28 @@
         "answers": [
             {"text":"Buddhism originated in Southern India", "correct": true},
             {"text":"Buddha was born in 563 BCE", "correct": false},
-            {"text":"India was the Birth placer of Buddhism", "correct": false}]
+            {"text":"India was the Birth place of Buddhism", "correct": false}]
     },
     { 
         "id": 33,
         "question": "Which one of these statements is a lie?",
         "answers": [
-            {"text":"The Great Pyramid was build for Pharaoh Tutankhamun", "correct": true},
-            {"text":"The Ancient Egyptians Built the Great Pyramid of Giza", "correct": false},
+            {"text":"The Great Pyramid was built for Pharaoh Tutankhamun", "correct": true},
+            {"text":"The Ancient Egyptians built the Great Pyramid of Giza", "correct": false},
             {"text":"The Great Pyramid is 4600 years old", "correct": false}]
     },
     { 
         "id": 34,
         "question": "Which one of these statements is a lie?",
         "answers": [
-            {"text":"The first wheeled veichle was powered by stea", "correct": true},
-            {"text":"The Wheeled Veichle first appeared in Eastern Europe", "correct": false},
-            {"text":"The first Wheeled veichle appeared in 3500 BCE", "correct": false}]
+            {"text":"The first Wheeled Vehicle was powered by steam", "correct": true},
+            {"text":"The Wheeled Vehicle first appeared in Eastern Europe", "correct": false},
+            {"text":"The first Wheeled Vehicle appeared in 3500 BCE", "correct": false}]
     },
     { 
         "id": 35,
         "class": "history",
-        "question": "This is a Hangman round: A famous king of England",
+        "question": "This is a Hangman round. The clue is: A famous king of England",
         "correct": "Henry VIII"
     },
     { 
