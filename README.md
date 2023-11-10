@@ -35,14 +35,14 @@ An educational website focused on learning geography and history. To increase th
 - Pushing and pulling from github frequently to make sure our code is working together well
 
 # Screenshots/Images
-<img src="https://i.ibb.co/5RmKjND/i1.png" alt="i1" border="0">
-<img src="https://i.ibb.co/fnVg1y6/i2.png" alt="i2" border="0">
-<img src="https://i.ibb.co/hYbBy5Q/i3.png" alt="i3" border="0">
-<img src="https://i.ibb.co/ySkb0Lz/i4.png" alt="i4" border="0">
-<img src="https://i.ibb.co/cY6g25Y/i5.png" alt="i5" border="0">
-<img src="https://i.ibb.co/KmTbnSX/i6.png" alt="i6" border="0">
-<img src="https://i.ibb.co/CVbJR5v/i7.png" alt="i7" border="0">
-<img src="https://i.ibb.co/kx2c8Sx/i8.png" alt="i8" border="0">
+<img src="https://i.ibb.co/zPx5Hys/i1.jpg" alt="i1" border="0">
+<img src="https://i.ibb.co/vhXngQn/i2.jpg" alt="i2" border="0">
+<img src="https://i.ibb.co/7ry7XWV/i3.jpg" alt="i3" border="0">
+<img src="https://i.ibb.co/LJFGMsL/i4.jpg" alt="i4" border="0">
+<img src="https://i.ibb.co/4mvKzKW/i5.jpg" alt="i5" border="0">
+<img src="https://i.ibb.co/YNMspjw/i6.jpg" alt="i6" border="0">
+<img src="https://i.ibb.co/d7HDCyd/i7.jpg" alt="i7" border="0">
+<img src="https://i.ibb.co/2ck1sCY/i8.jpg" alt="i8" border="0">
 
 # Wins & Challenges
 ## Wins
